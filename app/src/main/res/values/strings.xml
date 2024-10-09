@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ecommerceUI</string>
+    
+    <string-array name="branddisplay">
+        <item>Uniqlo</item>
+        <item>H&amp;M</item>
+        <item>Zara</item>
+        <item>Uniqlo</item>
+        <item>H&amp;M</item>
+        <item>Zara</item>
+
+    </string-array>
+    <string-array name="itemnamedisplay">
+        <item>Relax Dry Fit</item>
+        <item>Pants</item>
+        <item>Skirt</item>
+        <item>Relax Dry Fit</item>
+        <item>Pants</item>
+        <item>Skirt</item>
+
+    </string-array>
+    <string-array name="pricedisplay">
+        <item>$49</item>
+        <item>$50</item>
+        <item>$30</item>
+        <item>$49</item>
+        <item>$50</item>
+        <item>$30</item>
+    </string-array>
+</resources>
